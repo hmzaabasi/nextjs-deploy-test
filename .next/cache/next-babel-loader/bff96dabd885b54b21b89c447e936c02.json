@@ -1,0 +1,1 @@
+{"ast":null,"code":"var __jsx = React.createElement;\nimport React from \"react\";\n\nconst Index = () => {\n  return __jsx(\"div\", null, __jsx(\"div\", null, \"Hello to Aleem Bhai :D \"), __jsx(\"img\", {\n    src: \"https://robohash.org/8?set=set2\",\n    alt: \"Aleem bhai\"\n  }));\n};\n\nexport default Index;","map":null,"metadata":{},"sourceType":"module"}

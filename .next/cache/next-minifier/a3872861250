@@ -1,0 +1,1 @@
+{"code":"(window.webpackJsonp=window.webpackJsonp||[]).push([[6],{H0SL:function(n,t,o){(window.__NEXT_P=window.__NEXT_P||[]).push([\"/\",function(){return o(\"cMU6\")}])},cMU6:function(n,t,o){\"use strict\";o.r(t);var e=o(\"q1tI\"),u=o.n(e).a.createElement;t.default=function(){return u(\"div\",null,\"Hello to the world\")}}},[[\"H0SL\",0,1]]]);"}
